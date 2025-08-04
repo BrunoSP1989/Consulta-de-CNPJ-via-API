@@ -1,0 +1,14 @@
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\bin\Debug\net6.0\ConsultaCNPJApi.exe
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\bin\Debug\net6.0\ConsultaCNPJApi.deps.json
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\bin\Debug\net6.0\ConsultaCNPJApi.runtimeconfig.json
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\bin\Debug\net6.0\ConsultaCNPJApi.dll
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\bin\Debug\net6.0\ConsultaCNPJApi.pdb
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.AssemblyInfoInputs.cache
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.AssemblyInfo.cs
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.csproj.CoreCompileInputs.cache
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.dll
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\refint\ConsultaCNPJApi.dll
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.pdb
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ConsultaCNPJApi.genruntimeconfig.cache
+C:\temp\ConsultaCNPJApi\ConsultaCNPJApi\obj\Debug\net6.0\ref\ConsultaCNPJApi.dll
